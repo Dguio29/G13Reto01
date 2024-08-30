@@ -31,9 +31,3 @@
                 listaEducacion.appendChild(li);
             });
         }
-
-        // Llamar a las funciones cuando se cargue la página
-        window.onload = function() {
-            añadirExperiencias();
-            añadirEducacion();
-        };
