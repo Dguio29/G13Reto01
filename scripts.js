@@ -20,7 +20,6 @@
                 listaExperiencia.appendChild(li);
             });
         }
-
         // Función para añadir educación
         function añadirEducacion() {
             const listaEducacion = document.getElementById('lista-educacion');
